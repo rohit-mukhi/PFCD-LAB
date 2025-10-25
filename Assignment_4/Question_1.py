@@ -1,3 +1,5 @@
+# The sum and average of numbers in a list
+
 import statistics as st
 
 arr = []
